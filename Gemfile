@@ -36,7 +36,7 @@ gem "bcrypt", "~> 3.1.7"
 # Testing and development gems
 group :development, :test do
   # RSpec for testing
-  gem "rspec-rails", "~> 6.0"
+  gem "rspec-rails", "~> 7.0"
 
   # Pry for better debugging
   gem "pry"

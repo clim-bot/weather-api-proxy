@@ -4,7 +4,7 @@ source "https://rubygems.org"
 ruby "3.1.2"
 
 # Rails
-gem "rails", "~> 7.0.0"
+gem "rails", "~> 7.2.1"
 
 # Use PostgreSQL as the database for Active Record
 gem "pg", ">= 0.18", "< 2.0"

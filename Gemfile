@@ -10,7 +10,7 @@ gem "rails", "~> 7.2.1"
 gem "pg", ">= 0.18", "< 2.0"
 
 # Use Puma as the app server
-gem "puma", "~> 5.0"
+gem "puma", "~> 6.4"
 
 # Use SCSS for stylesheets (if you're doing frontend work, but you can remove this for API-only apps)
 gem "sassc-rails"

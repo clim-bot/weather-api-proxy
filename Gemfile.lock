@@ -164,7 +164,7 @@ GEM
       racc (~> 1.4)
     nokogiri (1.16.7-x86_64-linux)
       racc (~> 1.4)
-    oj (3.16.5)
+    oj (3.16.6)
       bigdecimal (>= 3.0)
       ostruct (>= 0.2)
     ostruct (0.6.0)
@@ -305,7 +305,7 @@ DEPENDENCIES
   pg (>= 0.18, < 2.0)
   pry
   puma (~> 6.4)
-  rails (~> 7.0.0)
+  rails (~> 7.2.1)
   redis
   rspec-rails (~> 7.0)
   sassc-rails

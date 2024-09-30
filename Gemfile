@@ -44,7 +44,7 @@ end
 
 group :test do
   # WebMock for stubbing HTTP requests in tests
-  gem "webmock", "~> 3.13"
+  gem "webmock", "~> 3.24"
 
   # FactoryBot for creating test data
   gem "factory_bot_rails"
